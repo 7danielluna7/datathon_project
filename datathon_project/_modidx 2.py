@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://7danielluna7.github.io',
                 'git_url': 'https://github.com/7danielluna7/datathon_project',
                 'lib_path': 'datathon_project'},
-  'syms': { 'datathon_project.core': {'datathon_project.core.foo': ('core.html#foo', 'datathon_project/core.py')},
-            'datathon_project.core 2': {'datathon_project.core 2.foo': ('core.html#foo', 'datathon_project/core 2.py')}}}
+  'syms': {'datathon_project.core': {'datathon_project.core.foo': ('core.html#foo', 'datathon_project/core.py')}}}
