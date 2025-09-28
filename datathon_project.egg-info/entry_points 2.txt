@@ -1,2 +1,0 @@
-[nbdev]
-datathon_project = datathon_project._modidx:d
