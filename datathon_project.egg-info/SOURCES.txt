@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+datathon_project.egg-info/PKG-INFO
+datathon_project.egg-info/SOURCES.txt
+datathon_project.egg-info/dependency_links.txt
+datathon_project.egg-info/entry_points.txt
+datathon_project.egg-info/not-zip-safe
+datathon_project.egg-info/requires.txt
+datathon_project.egg-info/top_level.txt
