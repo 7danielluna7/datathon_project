@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "datathon_project",
+    "section": "",
+    "text": "::: {#cell-1 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\n:::\nThis file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "datathon_project"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "datathon_project",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall datathon_project in Development mode\n# make sure datathon_project package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to datathon_project\n$ nbdev_prepare",
+    "crumbs": [
+      "datathon_project"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "datathon_project",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/7danielluna7/datathon_project.git\nor from conda\n$ conda install -c 7danielluna7 datathon_project\nor from pypi\n$ pip install datathon_project\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "datathon_project"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "datathon_project",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n2+2\n\n4",
+    "crumbs": [
+      "datathon_project"
+    ]
+  },
+  {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "core",
+    "section": "",
+    "text": "Fill in a module description here\n\n::: {#cell-2 .cell 0=‘d’ 1=‘e’ 2=‘f’ 3=‘a’ 4=‘u’ 5=‘l’ 6=‘t’ 7=’_’ 8=‘e’ 9=‘x’ 10=‘p’ 11=’ ’ 12=‘c’ 13=‘o’ 14=‘r’ 15=‘e’}\n!pip install nbdev\n\nRequirement already satisfied: nbdev in /opt/anaconda3/lib/python3.13/site-packages (2.4.5)\nRequirement already satisfied: packaging in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (24.2)\nRequirement already satisfied: fastcore&gt;=1.8.0 in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (1.8.11)\nRequirement already satisfied: execnb&gt;=0.1.12 in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (0.1.14)\nRequirement already satisfied: astunparse in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (1.6.3)\nRequirement already satisfied: ghapi&gt;=1.0.3 in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (1.0.8)\nRequirement already satisfied: watchdog in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (4.0.2)\nRequirement already satisfied: asttokens in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (3.0.0)\nRequirement already satisfied: setuptools in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (72.1.0)\nRequirement already satisfied: build in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (1.3.0)\nRequirement already satisfied: PyYAML in /opt/anaconda3/lib/python3.13/site-packages (from nbdev) (6.0.2)\nRequirement already satisfied: ipython in /opt/anaconda3/lib/python3.13/site-packages (from execnb&gt;=0.1.12-&gt;nbdev) (8.30.0)\nRequirement already satisfied: wheel&lt;1.0,&gt;=0.23.0 in /opt/anaconda3/lib/python3.13/site-packages (from astunparse-&gt;nbdev) (0.45.1)\nRequirement already satisfied: six&lt;2.0,&gt;=1.6.1 in /opt/anaconda3/lib/python3.13/site-packages (from astunparse-&gt;nbdev) (1.17.0)\nRequirement already satisfied: pyproject_hooks in /opt/anaconda3/lib/python3.13/site-packages (from build-&gt;nbdev) (1.2.0)\nRequirement already satisfied: decorator in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (5.1.1)\nRequirement already satisfied: jedi&gt;=0.16 in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.19.2)\nRequirement already satisfied: matplotlib-inline in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.1.6)\nRequirement already satisfied: prompt-toolkit&lt;3.1.0,&gt;=3.0.41 in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (3.0.43)\nRequirement already satisfied: pygments&gt;=2.4.0 in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (2.19.1)\nRequirement already satisfied: stack-data in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.2.0)\nRequirement already satisfied: traitlets&gt;=5.13.0 in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (5.14.3)\nRequirement already satisfied: pexpect&gt;4.3 in /opt/anaconda3/lib/python3.13/site-packages (from ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (4.8.0)\nRequirement already satisfied: wcwidth in /opt/anaconda3/lib/python3.13/site-packages (from prompt-toolkit&lt;3.1.0,&gt;=3.0.41-&gt;ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.2.5)\nRequirement already satisfied: parso&lt;0.9.0,&gt;=0.8.4 in /opt/anaconda3/lib/python3.13/site-packages (from jedi&gt;=0.16-&gt;ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.8.4)\nRequirement already satisfied: ptyprocess&gt;=0.5 in /opt/anaconda3/lib/python3.13/site-packages (from pexpect&gt;4.3-&gt;ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.7.0)\nRequirement already satisfied: executing in /opt/anaconda3/lib/python3.13/site-packages (from stack-data-&gt;ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.8.3)\nRequirement already satisfied: pure-eval in /opt/anaconda3/lib/python3.13/site-packages (from stack-data-&gt;ipython-&gt;execnb&gt;=0.1.12-&gt;nbdev) (0.2.2)\n\n:::\n::: {#cell-3 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nfrom nbdev.showdoc import *\n\n\n---------------------------------------------------------------------------\nModuleNotFoundError                       Traceback (most recent call last)\nCell In[5], line 2\n      1 #| hide\n----&gt; 2 from nbdev.showdoc import *\n\nModuleNotFoundError: No module named 'nbdev'\n\n\n:::\n::: {#cell-4 .cell 0=‘e’ 1=‘x’ 2=‘p’ 3=‘o’ 4=‘r’ 5=‘t’}\ndef foo(): pass\n:::\n::: {#cell-5 .cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nimport nbdev; nbdev.nbdev_export()\n:::",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
