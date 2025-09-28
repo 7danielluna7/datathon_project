@@ -4,23 +4,13 @@ README.md
 pyproject.toml
 settings.ini
 setup.py
-datathon_project/__init__ 2.py
 datathon_project/__init__.py
-datathon_project/_modidx 2.py
 datathon_project/_modidx.py
-datathon_project/core 2.py
 datathon_project/core.py
 datathon_project.egg-info/PKG-INFO
-datathon_project.egg-info/PKG-INFO 2
-datathon_project.egg-info/SOURCES 2.txt
 datathon_project.egg-info/SOURCES.txt
-datathon_project.egg-info/dependency_links 2.txt
 datathon_project.egg-info/dependency_links.txt
-datathon_project.egg-info/entry_points 2.txt
 datathon_project.egg-info/entry_points.txt
 datathon_project.egg-info/not-zip-safe
-datathon_project.egg-info/not-zip-safe 2
-datathon_project.egg-info/requires 2.txt
 datathon_project.egg-info/requires.txt
-datathon_project.egg-info/top_level 2.txt
 datathon_project.egg-info/top_level.txt
